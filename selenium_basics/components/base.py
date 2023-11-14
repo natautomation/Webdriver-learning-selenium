@@ -11,5 +11,5 @@ class Base:
 
 
 #--output--
-#/usr/local/bin/python3.9 /Users/gaughan/PycharmProjects/Webdriver-learning-selenium/selenium_basics/components/base.py
+#/usr/local/bin/python3.9 /Users/g/PycharmProjects/Webdriver-learning-selenium/selenium_basics/components/base.py
 #Process finished with exit code 0
